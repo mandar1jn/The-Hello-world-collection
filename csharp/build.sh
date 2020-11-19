@@ -1,2 +1,2 @@
 mkdir ../builds/csharp/
-mcs -out:../builds/csharp/main.exe ./Program.cs
+mcs -out:../builds/csharp/Main.exe ./Program.cs
